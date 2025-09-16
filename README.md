@@ -32,23 +32,6 @@ I design with empathy, code with clarity, and focus on creating **interfaces tha
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2ecc71?style=for-the-badge&logo=webflow&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/Accessibility-9b59b6?style=for-the-badge&logo=accessible-icon&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-🔹 [Personal Portfolio Website](#) — Built with HTML, CSS & JS, responsive design, and microinteractions (WIP)
-
-*(more projects coming soon! 🚀)*
-
----
-
-## 📊 GitHub Stats
-
-![Gaby’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)  
-
----
-
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2980b9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaojedasemidey/)  
