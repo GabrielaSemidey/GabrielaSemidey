@@ -60,7 +60,7 @@ Open to **Product Owner, Service Design and Product Strategy** roles — remote 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8e44ad?style=for-the-badge&logo=githubpages&logoColor=white)](https://gabrielasemidey.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2980b9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaojedasemidey/)
-[![Email](https://img.shields.io/badge/Email-fuchsia?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gab.ojedasemidey@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fuchsia?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielaojedasemidey@gmail.com)
 
 ---
 
